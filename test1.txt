@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 14BF-E068
+
+ Directory of C:\Users\Divya\Desktop\my project
+
+15-03-2020  11:30    <DIR>          .
+15-03-2020  11:30    <DIR>          ..
+15-03-2020  11:30                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  71,916,601,344 bytes free
